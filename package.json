@@ -27,8 +27,8 @@
     "homepage": "https://github.com/garronej/[TODO]",
     "devDependencies": {
         "@types/node": "^8.9.1",
-        "denoify": "^0.0.0",
-        "evt": "^1.0.9",
+        "denoify": "0.0.0",
+        "evt": "^1.6.8",
         "typescript": "^3.8.3"
     }
 }
